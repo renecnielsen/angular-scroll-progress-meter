@@ -1,6 +1,6 @@
 {
   "name": "angular-scroll-progress-meter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "Simon Engelhardt <simon@engelhardt.io>"
   ],
@@ -20,8 +20,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.2.14",
-    "lodash": "~2.4.1",
-    "jquery": "~2.1.0"
+    "angular": "~1.4.3",
+    "lodash": "~3.10.0",
+    "jquery": "~2.1.4"
   }
 }
